@@ -1,0 +1,28 @@
+name: littlepurplemen
+favicon: null
+layout_spectrum: 0.5119915180839598
+typography_spectrum: 0.9940012847073376
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7451596015598625
+  lightness: 0.2865797465201467
+  saturation: 0.15797966672107577
+  rhythmicContrast: 0.3544519005808979
+purpose: []
